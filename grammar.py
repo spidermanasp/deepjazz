@@ -1,5 +1,5 @@
 '''
-Author:     Ji-Sung Kim, Evan Chow
+Author:     Ji-Sung Kim, Evan Chow good
 Project:    jazzml / (used in) deepjazz
 Purpose:    Extract, manipulate, process musical grammar
 
